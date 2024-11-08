@@ -7,5 +7,3 @@ x=1+2
 y=2-1
 
 
-#secondary feature
-s=a/b
